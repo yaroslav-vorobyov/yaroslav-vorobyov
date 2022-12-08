@@ -40,7 +40,7 @@
 
 <br>
 
-## <center> Тех-стек
+<h2 align="center"> Тех-стек </h2>
 
 <br>
 <p align="center">
@@ -71,7 +71,7 @@
 
 ---
 
-## <center> Свяжитесь со мной: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+<h2 align="center"> Свяжитесь со мной: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="30px"></h2>
 
 <p align="center">
   <a href="https://t.me/yar_tg"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
