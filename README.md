@@ -1,7 +1,8 @@
 # Привет! <img src="https://imgur.com/CTPzCrS.gif" height=20px width=20px>
 
 ## Я продвинутый технический инженер, преуспевающий аналитик данных, системный инженер и топлю за OpenSource. Люблю познавать новое в сфере ИТ, что наносит добро и причиняет пользу.
----
+
+<br>
 
 ### &#10024; Обо мне за 30 секунд &#10024; 
 * 🎓 ФГБОУ ВО "Горный университет":
@@ -32,18 +33,15 @@
   * Ответственный рулевой;
 
 ### &#9889; В настоящее время &#9889;
-- Прохожу повышение квалификации Data Science в Skillfactory;
+- Прохожу повышение квалификации Data Science в SkillFactory;
+- Прохожу курсы: DST-3.0 & SQL в SkillFactory;
 - Изучаю параллельно материалы о Python и data science на Stepik.org, Leetcode.com, Coursera.org;
-- Прохожу курсы: DST-3.0 & SQL в Skillfactory;
 
-### &#129309; Свяжись со мной 
-- [Telegram](https://t.me/yar_tg)
-- [Kaggle](https://www.kaggle.com/best1ll)
 
 <br>
 
 ## <center> Тех-стек
----
+
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;&nbsp;
@@ -59,7 +57,7 @@
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=f06611">&nbsp;&nbsp;  
   <img src="https://img.shields.io/badge/MS SQL-CC2927?style=for-the-badge&logo=microsoft sql server&logoColor=white">&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;&nbsp; 
-  <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white">&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=5C2D91">&nbsp;&nbsp; 
@@ -69,4 +67,13 @@
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">&nbsp;&nbsp; 
 </p>
 
+<br>
+
 ---
+
+## <center> Свяжитесь со мной: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
+<p align="center">
+  <a href="https://t.me/yar_tg"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="https://www.kaggle.com/best1ll"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
