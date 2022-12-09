@@ -4,7 +4,7 @@
 
 <br>
 
-### &#10024; Обо мне за 30 секунд &#10024; 
+## &#10024; Обо мне за 30 секунд &#10024; 
 * 🎓 ФГБОУ ВО "Горный университет":
   - Бакалавр техники и технологии: 27.03.03 / 220100.62, Системный анализ и управление;
   - Магистр техники и технологии: 27.03.03 / 220100.68, Системный анализ и управление;
@@ -12,52 +12,50 @@
 * Постигаю дао IT, до всего, что смогу дотянуться &#129311;
 * Познаю Data Science с 2021 &#9996;
 * В данный момент работаю над портфолио в Data Science проектах, ловлю хакатоны &#129327;
-* &#129309;Ищу кооперации и сотрудничества с решением реальных проблем и решаемых с помощью OpenSource &#129492;&#129299;
-* &#128172; Спросите меня о технических вещах, если я знаю, буду рад помочь &#128522;
+* Ищу кооперации и сотрудничества с теми, кто занимается решением реальных проблем и с помощью OpenSource &#129309;
+* Спросите меня о технических вещах, если я знаю, буду рад помочь &#128172;
 * &#128516; Обращение: **<code>Он/Его</code>**
 * &#9889; Офф-топ: Я ❤️ красивую, полезную и вкусную пищу &#128523;, например, в [Birch](https://birchrest.com/), путешествия &#128665; и фотографию во всех её проявлениях &#128247;
 
-### &#128218; Проекты &#128218;
+## &#128218; Проекты &#128218;
 
 * Посмотреть мои [проекты](https://github.com/yaroslav-vorobyov/SF_DST)
 
-### &#128161; Основные компетенции &#128161;
+## &#128161; Основные компетенции &#128161;
 - Hard skills:
-  * Математика, высшая математика, математическая статистика;
+  * Основной опыт сейчас - сервера, сети и виртуализация, инфраструктура в целом;
+  * Математика, высшая математика, математическая статистика - получено в большом объёме ещё в университете и колледже, сейчас усиливаю посредством погружения в DS;
   * Предобработка данных и системный анализ данных;
   * Изучаю ML & DL, CV & NLP;
 - Soft skills:
   * Учиться, учиться, учиться, учиться...
-  <!-- * Goo -->
   * Умею найти подход в команде к каждому, главное слушать и слышать;
-  * Командный игрок, если все пали, то и один в поле воин;
+  * Командный игрок, но если все пали, то и один в поле воин;
   * Ответственный рулевой;
 
-### &#9889; В настоящее время &#9889;
-- Прохожу повышение квалификации Data Science в SkillFactory;
-- Прохожу курсы: DST-3.0 & SQL в SkillFactory;
+## &#9889; В настоящее время &#9889;
+- Прохожу повышение квалификации Data Science, прохожу курсы DST-3.0 & SQL в SkillFactory;
 - Изучаю параллельно материалы о Python и data science на Stepik.org, Leetcode.com, Coursera.org;
 <br>
 
-<h2 align="center"> Тех-стек </h2>
+<h2 align="center"> &#128187; Тех-стек </h2>
 <br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitLab-330F63.svg?style=for-the-badge&logo=gitlab&logoColor=f06611">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=5C2D91">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=5C2D91">&nbsp;&nbsp;
 </p>
 
 
@@ -66,10 +64,18 @@
 <br>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white">&nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=18A303">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white">&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -116,7 +122,7 @@
 </details>
 <br>
 
-<h2 align="center">&#x1f4c8; Github Stats </h2>
+<h2 align="center">&#128200; Github Stats </h2>
 <p align="center">
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=yaroslav-vorobyov&theme=android-dark&hide_border=false&date_format=j%20M%5B%20Y%5D&border=FFFFFF"/>
 </p>
@@ -130,8 +136,7 @@
 </p>
 <br>
 
-<h2 align="center"> Свяжитесь со мной: 
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="20px">
+<h2 align="center"> Свяжитесь со мной: &#129305;
 </h2>
 
 <p align="center">
