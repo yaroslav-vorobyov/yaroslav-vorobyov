@@ -39,9 +39,7 @@
 <br>
 
 
-## <center> &#128187; Тех-стек
-
-<br>
+<h2 align="center"> &#128187; Тех-стек </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;&nbsp;
@@ -138,7 +136,7 @@
 </p>
 <br>
 
-## <center> &#129305; Свяжитесь со мной:
+<h2 align="center"> &#129305; Свяжитесь со мной: </h2>
 <br>
 
 <p align="center">
