@@ -40,6 +40,7 @@
 
 
 ## <center> &#128187; Тех-стек
+
 <br>
 
 <p align="center">
