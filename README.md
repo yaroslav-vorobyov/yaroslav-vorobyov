@@ -36,6 +36,7 @@
 ## &#9889; В настоящее время
 - Прохожу повышение квалификации Data Science, прохожу курсы DST-3.0 & SQL в SkillFactory;
 - Изучаю параллельно материалы о Python и data science на Stepik.org, Leetcode.com, Coursera.org;
+<br>
 
 <h2 align="center"> &#128187; Тех-стек </h2>
 
@@ -117,6 +118,7 @@
   <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">&nbsp;&nbsp;
 </p>
 </details>
+<br>
 
 <h2 align="center">&#128200; Github Stats </h2>
 <p align="center">
@@ -130,6 +132,7 @@
 <p align="center">
   <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaroslav-vorobyov&layout=compact&theme=merko&card_width=250&show_icons=true&hide_border=false&border=FFFFFF"/>
 </p>
+<br>
 
 <h2 align="center"> &#129305; Свяжитесь со мной: </h2>
 
