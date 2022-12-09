@@ -38,7 +38,6 @@
 - Изучаю параллельно материалы о Python и data science на Stepik.org, Leetcode.com, Coursera.org;
 <br>
 
-
 <h2 align="center"> &#128187; Тех-стек </h2>
 
 <p align="center">
@@ -57,7 +56,6 @@
   <img src="https://img.shields.io/badge/GitLab-330F63.svg?style=for-the-badge&logo=gitlab&logoColor=f06611">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=5C2D91">&nbsp;&nbsp;
 </p>
-
 
 <details>
 <summary>More Skills</summary>
@@ -137,7 +135,6 @@
 <br>
 
 <h2 align="center"> &#129305; Свяжитесь со мной: </h2>
-<br>
 
 <p align="center">
   <a href="https://t.me/yar_tg"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
