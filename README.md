@@ -132,6 +132,11 @@
 <p align="center">
   <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaroslav-vorobyov&layout=compact&theme=merko&card_width=250&show_icons=true&hide_border=false&border=FFFFFF"/>
 </p>
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/yaroslav-vorobyov/count.svg"/>
+</p>
 <br>
 
 <h2 align="center"> &#129305; Свяжитесь со мной: </h2>
